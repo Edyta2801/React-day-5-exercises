@@ -17,6 +17,7 @@ const App = (props) => (
     <ForceUpdate />
     <hr />
     <Form />
+    <Form />
   </div>
 )
 
