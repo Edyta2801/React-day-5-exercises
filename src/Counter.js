@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+
 class Counter extends React.Component {
   state = {
     number: this.props.startValue

@@ -19,3 +19,5 @@ class Form extends React.Component {
         )
     }
 }
+
+export default Form
